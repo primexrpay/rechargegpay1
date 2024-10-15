@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.8f93817a.js",
+    "static/js/453.cb2595e2.chunk.js": "/static/js/453.cb2595e2.chunk.js",
+    "static/media/gpaylogo.png": "/static/media/gpaylogo.a859e7ad6e3a2b75843f.png",
+    "static/media/vi.jpg": "/static/media/vi.18e3b3b417135c6dc78d.jpg",
+    "static/media/gpaybanner.png": "/static/media/gpaybanner.7eef6b2d81d4cc1cbede.png",
+    "static/media/airtel.png": "/static/media/airtel.6df94f1d2262facc1c59.png",
+    "static/media/gpayfooter.webp": "/static/media/gpayfooter.11f558d98dc0e11b50d8.webp",
+    "static/media/5g.svg": "/static/media/5g.eec5aabd88995f7798a04639984c429a.svg",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.8f93817a.js.map": "/static/js/main.8f93817a.js.map",
+    "453.cb2595e2.chunk.js.map": "/static/js/453.cb2595e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8f93817a.js"
+  ]
+}
